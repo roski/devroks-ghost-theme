@@ -1,14 +1,14 @@
-# Dawn
+# Devroks Ghost Theme
 
 A highly functional theme that adapts to the reader's preferences. Let them read, search, subscribe, navigate, and more with ease. Completely free and fully responsive, released under the MIT license.
 
-**Demo: https://dawn.ghost.io**
+**Demo: https://devroks.com**
 
 &nbsp;
 
 # Instructions
 
-1. [Download this theme](https://github.com/TryGhost/Dawn/archive/master.zip)
+1. [Download this theme](https://github.com/roski/devroks-ghost-theme/archive/main.zip)
 2. Log into Ghost, and go to the `Design` settings area to upload the zip file
 
 # Search
@@ -51,7 +51,7 @@ If your logo image isn't recognizable in dark mode, you can set a white version 
 
 # Development
 
-Styles are compiled using Gulp/PostCSS to polyfill future CSS spec. You'll need [Node](https://nodejs.org/), [Yarn](https://yarnpkg.com/) and [Gulp](https://gulpjs.com) installed globally. After that, from the theme's root directory:
+Styles are compiled using Gulp/PostCSS to polyffill future CSS spec. You'll need [Node](https://nodejs.org/), [Yarn](https://yarnpkg.com/) and [Gulp](https://gulpjs.com) installed globally. After that, from the theme's root directory:
 
 ```bash
 # Install
